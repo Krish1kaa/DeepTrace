@@ -83,11 +83,11 @@ deeptrace/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/DeepTrace.git
+git clone https://github.com/Krish1kaa/DeepTrace.git
 cd DeepTrace
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
+
 
 ### 2. Create a virtual environment
 
