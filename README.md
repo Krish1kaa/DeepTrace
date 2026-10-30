@@ -167,6 +167,4 @@ The custom classifier must use compatible `Fake` and `Real` labels, or the scori
 
 **Important:** DeepTrace is an experimental screening tool. Its results should be interpreted as indicators for further review, not definitive academic or authorship judgments.
 
-## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
